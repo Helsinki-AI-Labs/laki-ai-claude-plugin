@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "laki": {
+      "type": "http",
+      "url": "https://api.laki.ai/mcp/headless"
+    }
+  }
+}
