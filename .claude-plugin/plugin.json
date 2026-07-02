@@ -1,11 +1,11 @@
 {
   "name": "laki-ai",
-  "displayName": "Laki.ai — Finnish Law & Tax Research",
+  "displayName": "Laki.ai — Finnish & EU Law and Tax Research",
   "version": "1.0.0",
-  "description": "Finnish legal & tax research grounded in Laki.ai's versioned corpus: statutes, case law (KKO/KHO), preparatory works, and Verohallinto tax guidance — with verbatim citations.",
-  "author": { "name": "Helsinki AI Labs", "url": "https://laki.ai" },
-  "homepage": "https://laki.ai/headless",
+  "description": "Finnish and EU legal & tax research grounded in Laki.ai's versioned corpus: Finnish statutes, case law (KKO/KHO), preparatory works, tax guidance, collective agreements, and EU law — treaties, the Charter, regulations, and directives — with verbatim citations.",
+  "author": { "name": "Helsinki AI Labs", "email": "info@laki.ai", "url": "https://laki.ai" },
+  "homepage": "https://laki.ai",
   "repository": "https://github.com/Helsinki-AI-Labs/laki-ai-claude-plugin",
   "license": "MIT",
-  "keywords": ["legal", "law", "finland", "finnish", "tax", "research", "mcp"]
+  "keywords": ["legal", "law", "finland", "finnish", "eu", "european-union", "tax", "research", "mcp"]
 }

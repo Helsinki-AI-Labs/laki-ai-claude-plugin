@@ -1,13 +1,13 @@
 {
   "name": "laki-ai-plugins",
-  "description": "Laki.ai plugins: Finnish law & tax research grounded in a versioned legal corpus.",
-  "owner": { "name": "Helsinki AI Labs" },
+  "description": "Laki.ai plugins: Finnish and EU law & tax research grounded in a versioned legal corpus.",
+  "owner": { "name": "Helsinki AI Labs", "email": "info@laki.ai" },
   "plugins": [
     {
       "name": "laki-ai",
       "source": "./",
       "category": "legal",
-      "tags": ["legal", "finland", "tax", "research"]
+      "tags": ["legal", "law", "finland", "eu", "tax", "research"]
     }
   ]
 }
