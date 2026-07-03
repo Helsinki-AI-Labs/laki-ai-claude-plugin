@@ -34,6 +34,8 @@ prompt content of its own, so guidance is always in sync with the service.
   Sign-in happens in your browser on first use, and you can create the
   account in that same flow.
 
+Full guide: [laki.ai/claude-plugin](https://laki.ai/claude-plugin)
+
 ## Install
 
 From this repository (Claude Code):

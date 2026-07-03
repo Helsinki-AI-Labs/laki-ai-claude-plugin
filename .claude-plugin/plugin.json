@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Finnish and EU legal & tax research grounded in Laki.ai's versioned corpus: Finnish statutes, case law (KKO/KHO), preparatory works, tax guidance, collective agreements, and EU law — treaties, the Charter, regulations, and directives — with verbatim citations.",
   "author": { "name": "Helsinki AI Labs", "email": "info@laki.ai", "url": "https://laki.ai" },
-  "homepage": "https://laki.ai",
+  "homepage": "https://laki.ai/claude-plugin",
   "repository": "https://github.com/Helsinki-AI-Labs/laki-ai-claude-plugin",
   "license": "MIT",
   "keywords": ["legal", "law", "finland", "finnish", "eu", "european-union", "tax", "research", "mcp"]
